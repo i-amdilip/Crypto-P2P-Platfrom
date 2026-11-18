@@ -13,44 +13,37 @@ The platform focuses on seamless trading workflows, transparent transactions, re
 - **Escrow-Based Workflow** – Designed around secure trade coordination.
 - **Transaction History** – Keep track of previous trading activities.
 - **Responsive Design** – Optimized for desktop, tablet, and mobile devices.
-- **Modern UI/UX** – Clean interface with an intuitive navigation experience.
+- **Modern UI/UX** – Clean interface with intuitive navigation.
 
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
-- [Add backend/database technologies if applicable]
 
 ## 📂 Project Structure
 
 ```text
-RoyalMint/
-│
+Crypto-P2P-Platfrom/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── assets/
-│   ├── images/
-│   └── icons/
-│
 └── README.md
 ```
 
 ## ⚙️ Getting Started
 
-Follow these steps to run RoyalMint locally.
-
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/RoyalMint.git
+git clone https://github.com/i-amdilip/Crypto-P2P-Platfrom.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd RoyalMint
+cd Crypto-P2P-Platfrom
 ```
 
 **3. Run the project**
@@ -81,10 +74,8 @@ RoyalMint is a software development project and does not represent a licensed cr
 
 ## 👨‍💻 Developer
 
-Developed with a focus on modern web development, interactive interfaces, and cryptocurrency marketplace experiences.
+Developed by [i-amdilip](https://github.com/i-amdilip).
 
 ---
 
-<p align="center">
-  **RoyalMint – Trade Direct. Trade Smarter.**
-</p>
+**RoyalMint – Trade Direct. Trade Smarter.**
